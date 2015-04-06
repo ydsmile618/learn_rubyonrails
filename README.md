@@ -26,3 +26,21 @@ http://blog.sina.com.cn/s/blog_b043152601018mua.html
 https://ruby-china.org/topics/9367
 
 ps.这是一个好的社区网站
+
+
+<h2> 如何更新Ubuntu上Ruby版本 </h2>
+2015-4-6 23:33:36
+我现在在学习
+http://guides.rubyonrails.org/getting_started.html
+这是一个比较好的RoR教程。
+
+可以在云端进行编译
+（https://ide.c9.io/nickwangyida/rails-tutorial#openfile-README.md）
+
+我也想在Ubuntu 服务器上进行同步学习。在版本设定时遇到问题：
+gem要求ruby 版本大于2.0
+于是尝试更新Ubuntu上ruby版本
+
+最终尝试的解决办法如下：
+http://www.cnblogs.com/neil-yang/p/3266673.html
+源代码安装
