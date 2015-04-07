@@ -41,6 +41,14 @@ http://guides.rubyonrails.org/getting_started.html
 gem要求ruby 版本大于2.0
 于是尝试更新Ubuntu上ruby版本
 
-最终尝试的解决办法如下：
+【方法1】最终尝试的解决办法如下：
 http://www.cnblogs.com/neil-yang/p/3266673.html
 源代码安装
+
+<h2>国内ubuntu安装Ruby和Rails的最佳教程</h2>
+2015年4月7日13:48:44：
+【方法1】失败
+
+找到了一个国内ubuntu安装ruby和rails 的最佳教程：
+http://www.cnblogs.com/piaolingzxh/p/4217480.html
+《ubuntu 14.04中安装 ruby on rails 环境（填坑版） 呕血推荐》
