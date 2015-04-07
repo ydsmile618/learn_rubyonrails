@@ -52,3 +52,6 @@ http://www.cnblogs.com/neil-yang/p/3266673.html
 找到了一个国内ubuntu安装ruby和rails 的最佳教程：
 http://www.cnblogs.com/piaolingzxh/p/4217480.html
 《ubuntu 14.04中安装 ruby on rails 环境（填坑版） 呕血推荐》
+
+<h2>出现"E: Unable to locate package curl"的解决办法</h2>
+http://stackoverflow.com/questions/27273412/cannot-install-packages-inside-docker-ubuntu-image
