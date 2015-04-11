@@ -55,3 +55,10 @@ http://www.cnblogs.com/piaolingzxh/p/4217480.html
 
 <h2>出现"E: Unable to locate package curl"的解决办法</h2>
 http://stackoverflow.com/questions/27273412/cannot-install-packages-inside-docker-ubuntu-image
+
+
+<h2>放弃其他平台，仅通过Ruby on Rails Tutorial来学习RoR</h2>
+2015-4-11 23:10:08
+
+<h3>Ruby on Rails Tutorial推荐的一个类Github网站，放弃使用；一个heroku，部署不成功，放弃使用，以后有经验之后，可以从头学习 </h3>
+<h3>学习Ruby on Rails Tutorial 的时候，Chapter4出现问题，修改不成功，只好从一开始进行部署。</h3>
